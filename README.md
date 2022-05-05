@@ -2,7 +2,7 @@
 
 ## Description
 
-The API has 3 endpoints
+This API has been designed to be used by developers to create and maintain their own API. It is not intended to be used by end users. This API has the following endpoints:
 
 ## 1. healthcheck
 
