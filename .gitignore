@@ -1,3 +1,2 @@
 *.log
-flask.cfg
 __pycache__/flask.cpython-310.pyc
